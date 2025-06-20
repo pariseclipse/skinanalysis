@@ -1,6 +1,6 @@
-# 🎨 Personal Color Analysis – 12-Season Palette (with OpenCV)
+# 🎨 Personal Colour Analysis – 12-Season Palette (with OpenCV)
 
-A Python-based Jupyter Notebook that detects a user's **skin tone** from a photo and classifies them into a **K-beauty style 12-season personal color palette** (Spring 🌸, Summer 🌊, Autumn 🍂, Winter ❄️). Built using basic computer vision and color classification techniques, this project helps users discover the colors that suit their natural tone best.
+A Python-based Jupyter Notebook that detects a user's **skin tone** from a photo and classifies them into a **K-beauty style 12-season personal colour palette** (Spring 🌸, Summer 🌊, Autumn 🍂, Winter ❄️). Built using basic computer vision and color classification techniques, this project helps users discover the colors that suit their natural tone best.
 
 ---
 
@@ -8,17 +8,17 @@ A Python-based Jupyter Notebook that detects a user's **skin tone** from a photo
 
 This notebook analyzes facial skin tone using OpenCV's skin detection in the YCrCb color space. It extracts the average skin color, converts it to hex, and then classifies it into one of the 12 seasonal palettes. Each result includes:
 
-* A detected skin patch color
+* A detected skin patch colour
 * The classified color season
-* A color bar of recommended tones
-* A short style description based on Korean color theory
+* A colour bar of recommended tones
+* A short style description based on Korean colour theory
 
 ---
 
 ## ✨ Features
 
 * 🖼️ Image upload & skin region detection
-* 🎨 Average skin tone color extraction (RGB + Hex)
+* 🎨 Average skin tone colour extraction (RGB + Hex)
 * 🔎 Classification into one of 12 seasonal palettes:
 
   * Bright/Cool/Dark Winter
@@ -82,6 +82,6 @@ A deeper, warm-toned subject was also classified as Soft Summer, with a more cop
 
 ## ⚠️ Disclaimer
 
-This tool is for fun and educational purposes only and should not replace professional personal color consulting. Accuracy may vary depending on lighting and image quality.
+This tool is for fun and educational purposes only and should not replace professional personal colour consulting. Accuracy may vary depending on lighting and image quality.
 
 ---
