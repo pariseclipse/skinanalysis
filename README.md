@@ -1,4 +1,4 @@
-# 🎨 Korean Personal Color Analysis – 12-Season Palette (with OpenCV)
+# 🎨 Personal Color Analysis – 12-Season Palette (with OpenCV)
 
 A Python-based Jupyter Notebook that detects a user's **skin tone** from a photo and classifies them into a **K-beauty style 12-season personal color palette** (Spring 🌸, Summer 🌊, Autumn 🍂, Winter ❄️). Built using basic computer vision and color classification techniques, this project helps users discover the colors that suit their natural tone best.
 
