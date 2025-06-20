@@ -69,9 +69,9 @@ The notebook shows four panels:
 4. Recommended palette bar with description
 
 Result 1:
-A fair, cool-toned subject was classified as Soft Summer, with a muted rose-beige skin tone (#ba998d). The recommended palette includes soft pastels and cool, delicate shades that complement her subtle complexion.
+This subject was classified as Light Summer, with a soft peach-beige skin tone (#d5b59b). Her complexion reflects cool, light characteristics, making pastel shades with a hint of blue or pink the most flattering. The recommended palette focuses on cool and delicate tones that enhance her softness without overwhelming contrast.
 
-![](result1.png) 
+![](result3.png) 
 
 Result 2:
 A deeper, warm-toned subject was also classified as Soft Summer, with a more coppery-tan tone (#be8465). Despite the difference in depth, the muted undertones aligned with the Soft Summer category, suggesting pastel cool shades work beautifully across varying skin depths.
